@@ -1,12 +1,10 @@
 # Simulation-Inverse-Transform
-Inverse transformation is a method of simulation that allows sampling from an invertible function to generate data from said function. 
-
-We will look into a casino that has 100,000 bets a month and identify the amounts of money we expect from these bets in a month. Each bet represents a loss or gain of $1, therefore we will investigate aspects of this month for the casino such as probabilites of outcomes and amount the casino makes. 
+Inverse transformation is a method of simulation that allows sampling from an invertible function to generate data from said function. This has various applications such as taking said data to compute expceted  values, variance, satdnard devaition etc.
 
 This project will cover:
 
-- Setting up simulation parameters (number of bets, number of repetitions)
-- Simulating an amount won after 100,000  bets 
+- Compare Monte Carlo to Inverse transform methods
+- Approxiamte the expecetd value of 
 - Simulating "Gamblers Ruin" using random walks
 - Graphing the random walk and finding the probability of making between $4600 and $6000 from 100,000 bets in a casino
  
