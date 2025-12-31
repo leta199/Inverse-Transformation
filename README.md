@@ -24,7 +24,10 @@ Environment: RStudio
 - Define our set seed to allow for reproducibility
 - Set up 10,000 runs of the simulation
 - Randomly generate value of "r" from a uniform distribution from 1 to 4 and save to a list
-- Find the mean of the area from the generated 
+- Find the mean of the area from the generated
+
+  **Inverse CDF Method**
+  
 
 
 
