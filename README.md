@@ -1,6 +1,8 @@
 # Simulation-Inverse-Transform
 Inverse transformation is a method of simulation that allows sampling from an invertible function to generate data from said function. This has various applications such as taking said data to compute expceted  values, variance, satdnard devaition etc.
 We will use both Monte Carlo and Inverse transform to approximate the area of a circle of radius r with area Y. 
+Rdius "r" is distributed on a uniform distribution of [1,4]
+We will try to find the expected value of "Y" (our area) 
 
 This project will cover:
 
@@ -20,7 +22,7 @@ Environment: RStudio
 **Monte Carlo Method**
 We begin by defining a funcion that we will call to
 
-<img width="1183" height="825" alt="Image" src="https://github.com/user-attachments/assets/56b7f5bc-90ec-4551-be9e-b8ba0fb1031c" />
+
 
 ## FUNCTION EXPLANATION  
 In ann effort to identify how the casino will perfrom we will simulate the probability of the casino generating a specfic interval of money for each month. In this case, we want to know what the probability of the casino earning between $4600 and $6000.
