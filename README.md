@@ -36,8 +36,8 @@ Environment: RStudio
  ## VISUALISING SIMULATION 
 We can compare the histogram and line graph of our generated areas and compare them to the actual probability density function of areas.
 
+<img width="1058" height="838" alt="Image" src="https://github.com/user-attachments/assets/9dbe6cb9-3ddf-48e4-a0b1-102d9ea89575" />
  
-
  ## PROJECT STRUCTURE      
 |[Simulation- Random Walks](https://github.com/leta199/Simulation-Random-Walks)  
 |├── [Randomwalk R script](https://github.com/leta199/Simulation-Random-Walks/blob/main/Randomwalk.r)   
