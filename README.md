@@ -30,23 +30,11 @@ Environment: RStudio
   `sim_circle_2()` - For this method was also also set our seed, number of trials
   - Create a list of values "u" from a unifrom [0,1] distribution
   - Calculate radii "r" using samples from the uniform distribution
-  - 
+  - Store list of ares calculated from the radii "r" in the object "areas"
   
-  
-
-
-
-
-## FUNCTION EXPLANATION  
-In ann effort to identify how the casino will perfrom we will simulate the probability of the casino generating a specfic interval of money for each month. In this case, we want to know what the probability of the casino earning between $4600 and $6000.
-
-`sim4ot6` - a function that simulates the probability of the casino generating between $4600 and $6000 
-
-This function: 
-has a list `list4to6` - stores an list of 100,000 values generated from the proabilities given above to earn -$1 and $1  
-If the sum for each list generated is between $4600 and $6000 store the number 1 and 0 if not.
-
-We then replicate this simulation 5000 times and get the mean of the outcome stored in `mean4to6` using `mean()` and `replicate()`
+ ## VISUALISING SIMULATION 
+We can compare the histogram and 
+ 
 
  ## PROJECT STRUCTURE      
 |[Simulation- Random Walks](https://github.com/leta199/Simulation-Random-Walks)  
