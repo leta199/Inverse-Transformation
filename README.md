@@ -27,7 +27,11 @@ Environment: RStudio
 - Find the mean of the area from the generated
 
   **Inverse CDF Method**
-  `sim_circle_2()` - For this method was also also set our seed, number of trials and a list of values "u" from a unifrom [0,1] distribution
+  `sim_circle_2()` - For this method was also also set our seed, number of trials
+  - Create a list of values "u" from a unifrom [0,1] distribution
+  - Calculate radii "r" using samples from the uniform distribution
+  - 
+  
   
 
 
