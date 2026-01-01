@@ -41,8 +41,7 @@ We can compare the histogram and line graph of our generated areas and compare t
  ## PROJECT STRUCTURE      
 |[Simulation- Inverse Transform](https://github.com/leta199/Simulation-Random-Walks)  
 |├── [Inverse Transform Method R script](https://github.com/leta199/Simulation-Inverse-Transform/blob/main/Inverse%20Transform%20Method.r)   
-|└──[README]()
+|└──[README](https://github.com/leta199/Simulation-Inverse-Transform/blob/main/README.md)
   
-
 ## AUTHORS   
 [leta199](https://github.com/leta199)  
