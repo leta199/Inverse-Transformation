@@ -38,7 +38,7 @@ We can compare the histogram and line graph of our generated areas and compare t
 
 <img width="1058" height="838" alt="Image" src="https://github.com/user-attachments/assets/9dbe6cb9-3ddf-48e4-a0b1-102d9ea89575" />
 
- **Histogram** - shows us the density i.e proportion of total each bucket of ares appears with the bucket of area 5-10 beaing the most prevalent.
+ **Histogram** - shows us the density i.e proportion of total each bucket of ares appears with the bucket of area 5-10 beaing the most prevalent.  
  **Line graph** - creates a probbaility density of our areas following the simulated sample data.
  
  ## PROJECT STRUCTURE      
