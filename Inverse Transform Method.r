@@ -1,4 +1,4 @@
-#INVERSE TRANSFORMATION- SIMULAING AREA OF A CIRCLE ---------------------------
+#INVERSE TRANSFORMATION- SIMULATING AREA OF A CIRCLE ---------------------------
 
 #Monte Carlo ------------------------------
 sim_circle<- function(){
