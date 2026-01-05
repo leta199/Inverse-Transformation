@@ -1,4 +1,4 @@
-#SIMULAING AREA OF A CIRCLE WITH SIMULATION ---------------------------
+#INVERSE TRANSFORMATION- SIMULAING AREA OF A CIRCLE ---------------------------
 
 #Monte Carlo ------------------------------
 sim_circle<- function(){
@@ -42,6 +42,6 @@ areas<-sim_circle_plot()
 
 #Plotting simulation vs theoretical ---------------
 #histogram with density not frequency 
-hist((areas), xlim = c(3.142,50.264), freq = FALSE)
-#true density curve overlayed 
+hist((areas), xlim = c(3.142,50.264), freq = FALSE) #chart limits based on x = 1 and 4
+#true density curve overlaid 
 lines(density(areas), lwd = 2)
